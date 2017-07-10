@@ -5,9 +5,11 @@ Using Daum API
 <img src="https://github.com/jihunim/MovieRankKorea/blob/master/Screenshot_1499668906.png" width="250">
 
 **This application uses .**
-- Retrofit
+- Retrofit2
 - Gson
 - Glide
+- Picasso
+- Mochi
 - Butterknife
 - DaumApi
 - KobisApi
