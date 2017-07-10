@@ -1,0 +1,315 @@
+{
+  "channel": {
+    "result": 10,
+    "title": "Search SCC Open API",
+    "page": 1,
+    "totalCount": 1,
+    "q": "스파이더맨홈커밍",
+    "item": [
+      {
+        "genre": [
+          {
+            "content": "액션",
+            "link": ""
+          },
+          {
+            "content": "어드벤처",
+            "link": ""
+          },
+          {
+            "content": "판타지",
+            "link": ""
+          },
+          {
+            "content": "SF",
+            "link": ""
+          }
+        ],
+        "res": [
+          {
+            "content": "",
+            "link": "https://ticket2.movie.daum.net/Movie/MovieMain.aspx?M_ID=M000063149#seq=2"
+          }
+        ],
+        "trailer": [
+          {
+            "content": "http://t1.daumcdn.net/movie/movie-trailer/57/44/54457/trailer_54457.jpg",
+            "link": "http://movie.daum.net/moviedb/video?id=93697&vclipId=54457"
+          }
+        ],
+        "photo1": {
+          "content": "http://t1.search.daumcdn.net/thumb/R438x0.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fb87df1f7cb23a9cbfc30af94cb8cd7df8dabf2e7",
+          "link": "http://movie.daum.net/moviedb/photoviewer?id=93697#1174057"
+        },
+        "actor": [
+          {
+            "content": "톰 홀랜드",
+            "link": "http://movie.daum.net/person/main?personId=320745"
+          },
+          {
+            "content": "로버트 다우니 주니어",
+            "link": "http://movie.daum.net/person/main?personId=8357"
+          },
+          {
+            "content": "마이클 키튼",
+            "link": "http://movie.daum.net/person/main?personId=9100"
+          },
+          {
+            "content": "마리사 토메이",
+            "link": "http://movie.daum.net/person/main?personId=8932"
+          },
+          {
+            "content": "존 파브로",
+            "link": "http://movie.daum.net/person/main?personId=17724"
+          },
+          {
+            "content": "기네스 팰트로",
+            "link": "http://movie.daum.net/person/main?personId=631"
+          },
+          {
+            "content": "젠다야 콜맨",
+            "link": "http://movie.daum.net/person/main?personId=295276"
+          }
+        ],
+        "story": [
+          {
+            "content": "마블 히어로의 세대교체!\r\n“어벤져스가 되려면 시험 같은 거 봐요?”\r\n\r\n‘시빌 워’ 당시 ‘토니 스타크’(로버트 다우니 주니어)에게 발탁되어 대단한 활약을 펼쳤던 스파이더맨 ‘피터 파커’(톰 홀랜드). 그에게 새로운 수트를 선물한 ‘토니 스타크’는 위험한 일은 하지 말라며 조언한다. 하지만 허세와 정의감으로 똘똘 뭉친 ‘피터 파커’는 세상을 위협하는 강력한 적 ‘벌처’(마이클 키튼)에 맞서려 하는데…\r\n\r\n아직은 어벤져스가 될 수 없는 스파이더맨\r\n숙제보다 세상을 구하고 싶은 스파이더맨\r\n그는 과연 진정한 히어로로 거듭날 수 있을 것인가!",
+            "link": "http://movie.daum.net/moviedb/main?movieId=93697"
+          }
+        ],
+        "write_grades": [
+          {
+            "content": "",
+            "link": "http://movie.daum.net/moviedetailNetizenPoint.do?movieId=93697"
+          }
+        ],
+        "title": [
+          {
+            "content": "스파이더맨 : 홈커밍",
+            "link": "http://movie.daum.net/moviedb/main?movieId=93697"
+          }
+        ],
+        "audience_date": [
+          {
+            "content": "2017-07-08",
+            "link": ""
+          }
+        ],
+        "video_info": [
+          {
+            "content": "6",
+            "link": "http://movie.daum.net/moviedb/video?id=93697"
+          }
+        ],
+        "event": [
+          {
+            "content": "",
+            "link": ""
+          }
+        ],
+        "more_actor": [
+          {
+            "content": "",
+            "link": "http://movie.daum.net/moviedb/crew?movieId=93697"
+          }
+        ],
+        "photo_info": [
+          {
+            "content": "68",
+            "link": "http://movie.daum.net/moviedb/photoviewer?id=93697#start/PhotoList"
+          }
+        ],
+        "year": [
+          {
+            "content": "2017",
+            "link": ""
+          }
+        ],
+        "ogr_title": [
+          {
+            "content": "",
+            "link": ""
+          }
+        ],
+        "video": [
+          {
+            "content": "http://t1.daumcdn.net/movie/movie-trailer/76/43/54376/trailer_54376.jpg",
+            "link": "http://movie.daum.net/moviedb/video?id=93697&vclipId=54376"
+          },
+          {
+            "content": "http://t1.daumcdn.net/movie/movie-trailer/41/39/53941/trailer_53941.jpg",
+            "link": "http://movie.daum.net/moviedb/video?id=93697&vclipId=53941"
+          },
+          {
+            "content": "http://t1.daumcdn.net/movie/movie-trailer/80/28/52880/trailer_52880.jpg",
+            "link": "http://movie.daum.net/moviedb/video?id=93697&vclipId=52880"
+          },
+          {
+            "content": "http://t1.daumcdn.net/movie/movie-trailer/81/45/54581/trailer_54581.jpg",
+            "link": "http://movie.daum.net/moviedb/video?id=93697&vclipId=54581"
+          }
+        ],
+        "kword": [
+          {
+            "content": "스파이더맨",
+            "link": ""
+          },
+          {
+            "content": "스파이더맨홈커밍",
+            "link": ""
+          },
+          {
+            "content": "스파이더맨6",
+            "link": ""
+          },
+          {
+            "content": "스파이더맨6편",
+            "link": ""
+          },
+          {
+            "content": "스파이더맨6탄",
+            "link": ""
+          },
+          {
+            "content": "스파이더맨시리즈6",
+            "link": ""
+          },
+          {
+            "content": "스파이더맨시리즈6편",
+            "link": ""
+          },
+          {
+            "content": "스파이더맨시리즈6탄",
+            "link": ""
+          },
+          {
+            "content": "홈커밍",
+            "link": ""
+          }
+        ],
+        "open_info": [
+          {
+            "content": "2017.07.05",
+            "link": ""
+          },
+          {
+            "content": "12세이상관람가",
+            "link": ""
+          },
+          {
+            "content": "133분",
+            "link": ""
+          },
+          {
+            "content": "",
+            "link": ""
+          }
+        ],
+        "audience": [
+          {
+            "content": "2592477",
+            "link": ""
+          }
+        ],
+        "director": [
+          {
+            "content": "존 왓츠",
+            "link": "http://movie.daum.net/person/main?personId=303716"
+          }
+        ],
+        "nation": [
+          {
+            "content": "미국",
+            "link": ""
+          }
+        ],
+        "homepage": [
+          {
+            "content": "",
+            "link": ""
+          }
+        ],
+        "category": [
+          {
+            "content": "일반",
+            "link": ""
+          }
+        ],
+        "thumbnail": [
+          {
+            "content": "http://t1.search.daumcdn.net/thumb/R438x0.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F4f9750f09dac0f1b3659ae03cfe9ed7938be8d30",
+            "link": ""
+          }
+        ],
+        "eng_title": [
+          {
+            "content": "Spider-Man: Homecoming",
+            "link": ""
+          }
+        ],
+        "grade3": [
+          {
+            "content": "2017.07.09",
+            "link": ""
+          }
+        ],
+        "photo2": {
+          "content": "http://t1.search.daumcdn.net/thumb/R438x0.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fcc2d1abb0a194f07ed3bd0c60cd81c66345c6e40",
+          "link": "http://movie.daum.net/moviedb/photoviewer?id=93697#1178676"
+        },
+        "grades": [
+          {
+            "content": "8.8",
+            "link": "http://movie.daum.net/moviedb/grade?movieId=93697&type=netizen"
+          },
+          {
+            "content": "8326",
+            "link": ""
+          }
+        ],
+        "expect_grades": [
+          {
+            "content": "",
+            "link": "http://movie.daum.net/moviedetailNetizenPoint.do?movieId=93697&type=before"
+          },
+          {
+            "content": "0",
+            "link": ""
+          }
+        ],
+        "photo3": {
+          "content": "http://t1.search.daumcdn.net/thumb/R438x0.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fdb3bffaec37fe24a4839e5046e175a47195669ed",
+          "link": "http://movie.daum.net/moviedb/photoviewer?id=93697#1179939"
+        },
+        "photo4": {
+          "content": "http://t1.search.daumcdn.net/thumb/R438x0.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F1895db0b24504069838a11deacc813e11d2733bf",
+          "link": "http://movie.daum.net/moviedb/photoviewer?id=93697#1176799"
+        },
+        "grade1": [
+          {
+            "content": "2017.07.09",
+            "link": ""
+          }
+        ],
+        "wiki_url": [
+          {
+            "content": "",
+            "link": ""
+          }
+        ],
+        "photo5": {
+          "content": "http://t1.search.daumcdn.net/thumb/R438x0.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Faae0ba5894eaf8b08c46e04ded7fbacb765bf6fb",
+          "link": "http://movie.daum.net/moviedb/photoviewer?id=93697#1176798"
+        },
+        "grade2": [
+          {
+            "content": "2017.07.09",
+            "link": ""
+          }
+        ]
+      }
+    ],
+    "debug": {},
+    "pk": ""
+  }
+}
