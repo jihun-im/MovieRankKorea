@@ -1,5 +1,9 @@
-Android application for movie raking information.
+**Android application for movie raking information.**
+Using Daum API
 
+
+![Image Card Grid](https://github.com/jihunim/MovieRankKorea/blob/master/Screenshot_1499667860.png)
+![Image Card Grid](https://github.com/jihunim/MovieRankKorea/blob/master/Screenshot_1499668906.png)
 
 **This application uses .**
 - Retrofit
