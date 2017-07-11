@@ -89,4 +89,10 @@ public class TestUtils {
             }
         };
     }
+    static boolean isGradeHigherOrEqualsTo(String s1, String s2) {
+        if (Float.parseFloat(s1.split("점")[0]) >= Float.parseFloat(s2.split("점")[0])) {
+            return true;
+        }
+        return false;
+    }
 }

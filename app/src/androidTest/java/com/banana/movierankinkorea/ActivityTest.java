@@ -15,6 +15,7 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 
 import static android.support.test.espresso.Espresso.onView;
+import static android.support.test.espresso.Espresso.pressBack;
 import static android.support.test.espresso.action.ViewActions.click;
 import static android.support.test.espresso.assertion.ViewAssertions.matches;
 import static android.support.test.espresso.contrib.RecyclerViewActions.actionOnHolderItem;
@@ -80,9 +81,23 @@ public class ActivityTest {
     }
 
     @Test
-    public void shouldBeAbleStartMovieDetailActivity() throws InterruptedException {
-//        onView(withId(R.id.grid_recyclerview)).perform();
-//        onView(withText("Summary")).check(matches(isDisplayed()));
+    public void shouldGradeSortingWorkProperly() throws InterruptedException {
+        Thread.sleep(3000);
+        onView(withId(R.id.action_sort)).perform(click());
+        onView(withText("별점 순")).check(matches(isDisplayed()));
+        onView(withText("별점 순")).perform(click());
+        Thread.sleep(200);
+
+        onView(withId(R.id.grid_recyclerview)).perform(RecyclerViewActions.actionOnItemAtPosition(0, click()));
+        String grade0 = TestUtils.getText(withId(R.id.movie_rating));
+        pressBack();
+
+        onView(withId(R.id.grid_recyclerview)).perform(RecyclerViewActions.actionOnItemAtPosition(1, click()));
+        Thread.sleep(200);
+        String grade1 = TestUtils.getText(withId(R.id.movie_rating));
+        Thread.sleep(200);
+
+        assertEquals(true,TestUtils.isGradeHigherOrEqualsTo(grade0,grade1));
     }
 
 }
