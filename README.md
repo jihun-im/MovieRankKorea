@@ -5,6 +5,7 @@ Using Daum API
 <img src="https://github.com/jihunim/MovieRankKorea/blob/master/Screenshot_1499668906.png" width="250">
 
 **Play Store Link**
+
 https://play.google.com/store/apps/details?id=com.banana.movierankinkorea
 
 **This application uses .**
